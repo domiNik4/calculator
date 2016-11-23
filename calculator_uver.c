@@ -2,6 +2,8 @@
 #include <math.h>
 //this is a small calculator app
 
+//I commited faster than you,HA!
+
 void vypocetSplatky(float s, float u, int d, float* psplatka);
 void countMaxSplatka(float plat,float splatka ,float* pmaxSplatka);
 
