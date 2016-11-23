@@ -4,6 +4,8 @@
 
 //I commited faster than you,HA!
 
+//Yet another comment.
+
 void vypocetSplatky(float s, float u, int d, float* psplatka);
 void countMaxSplatka(float plat,float splatka ,float* pmaxSplatka);
 
